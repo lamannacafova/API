@@ -1,0 +1,13 @@
+.button {
+  margin-left: 100px;
+}
+.button button {
+  width: 130px;
+  height: 35px;
+  background-color: violet;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  margin-top: 25px;
+  margin-left: 25px;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,10 @@
+ul {
+  display: flex;
+  margin-left: 50px;
+}
+ul li {
+  list-style-type: none;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 10px;
+}/*# sourceMappingURL=style1.css.map */
